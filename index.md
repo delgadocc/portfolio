@@ -1,11 +1,11 @@
 ---
-title: Website Title
-subtitle: Subtitle of the book
+title: Cristhian C. Delgado F.
+subtitle: PhD. Candidate
 ---
 
-## IntroductionV2
+## About Me
 
-Welcome to the official repository for _**Website Title**_. This repository contains all the code examples featured in the book.
+I am a computational researcher and engineer specializing in **geospatial analysis**, **remote sensing**, and **machine learning** applied to sustainable agriculture and climate monitoring..
 
 ---
 

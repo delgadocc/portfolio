@@ -20,16 +20,12 @@ project:
     - book/references.bib
   toc:
     - file: index.md
-    - title: Preface
+    - title: Education & Career
       children:
-        - file: book/preface.md
-    - title: Getting Started
-      children:
-        - file: book/part01/getting-started.md
-        - file: book/part01/installation.md
-    - title: Examples
-      children:
-        - file: book/part02/first-example.md
+        - file: book/education/education.md
+        - file: book/education/experience.md
+        - file: book/education/awards.md
+        - file: book/education/publications.md
     - title: Projects
       children:
         - file: book/projects/livestock-methane.md
