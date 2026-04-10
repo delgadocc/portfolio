@@ -30,6 +30,15 @@ project:
     - title: Examples
       children:
         - file: book/part02/first-example.md
+    - title: Projects
+      children:
+        - file: book/projects/livestock-methane.md
+        - file: book/projects/gmh.md
+        - file: book/projects/flar-app.md
+        - file: book/projects/ndvi-camera.md
+        - file: book/projects/photogrammetry.md
+        - file: book/projects/rhbv-screening.md
+        - file: book/projects/handwashing-monitoring.md
 site:
   options:
     logo: logo.png
